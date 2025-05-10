@@ -5,11 +5,6 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -34,12 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 1: Create an Azure Virtual Machine
-	1.	Go to Azure Portal: https://portal.azure.com
-	2.	Click Create a resource > Virtual Machine
-	3.	Configure:
-	•	Authentication type: Password or SSH (choose one you’re comfortable with)
-	4.	Click Review + Create, then Create
+fill in the blank
 </p>
 <br />
 
